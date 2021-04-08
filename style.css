@@ -1,5 +1,7 @@
-body {
+* {
     font-family: 'Minion Pro', sans-serif;
+}
+body {
     background-color: #d6cac2;
     color: #8f867f;
     text-align: center;
